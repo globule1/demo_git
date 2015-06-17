@@ -3,3 +3,5 @@ Une demo de git
 Qui se passe bien
 
 Et maintenant on modifie depuis GitHub
+
+Puis en local
